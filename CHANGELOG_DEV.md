@@ -3,3 +3,4 @@
 Detailed iterative commit milestones and progress logs.
 
 - **[2026-06-19 16:38]** style: adjust button active state and hover transitions
+- **[2026-06-22 17:34]** fix: correct active navigation state during smooth scrolling
