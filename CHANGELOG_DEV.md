@@ -10,3 +10,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-02 21:13]** feat: enhance form validation feedback and error states
 - **[2026-07-03 12:30]** refactor: structure config tokens for consistent theme variables
 - **[2026-07-06 15:40]** refactor: streamline event handler signatures and callbacks
+- **[2026-07-08 17:37]** style: adjust button active state and hover transitions
