@@ -12,3 +12,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-06 15:40]** refactor: streamline event handler signatures and callbacks
 - **[2026-07-08 17:37]** style: adjust button active state and hover transitions
 - **[2026-07-09 11:36]** style: polish spacing across section hero headers
+- **[2026-07-11 18:17]** style: refine typography scale and line-height balance
