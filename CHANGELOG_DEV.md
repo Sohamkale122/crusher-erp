@@ -14,3 +14,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-09 11:36]** style: polish spacing across section hero headers
 - **[2026-07-11 18:17]** style: refine typography scale and line-height balance
 - **[2026-07-15 12:31]** fix: patch edge-case boundary in calculation logic
+- **[2026-07-18 17:14]** docs: clarify environment setups and local preview steps
