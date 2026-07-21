@@ -15,3 +15,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-11 18:17]** style: refine typography scale and line-height balance
 - **[2026-07-15 12:31]** fix: patch edge-case boundary in calculation logic
 - **[2026-07-18 17:14]** docs: clarify environment setups and local preview steps
+- **[2026-07-21 19:27]** style: adjust button active state and hover transitions
