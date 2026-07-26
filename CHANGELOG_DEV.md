@@ -17,3 +17,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-18 17:14]** docs: clarify environment setups and local preview steps
 - **[2026-07-21 19:27]** style: adjust button active state and hover transitions
 - **[2026-07-25 18:18]** docs: update release notes and milestone summaries
+- **[2026-07-26 15:15]** style: fine-tune dark theme gradient opacity and borders
