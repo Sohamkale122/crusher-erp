@@ -19,3 +19,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-25 18:18]** docs: update release notes and milestone summaries
 - **[2026-07-26 15:15]** style: fine-tune dark theme gradient opacity and borders
 - **[2026-07-27 20:20]** feat: integrate modular utility helpers for calculated metrics
+- **[2026-07-28 17:48]** style: refine typography scale and line-height balance
