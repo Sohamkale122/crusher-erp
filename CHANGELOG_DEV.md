@@ -22,3 +22,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-28 17:48]** style: refine typography scale and line-height balance
 - **[2026-07-31 20:05]** refactor: structure config tokens for consistent theme variables
 - **[2026-08-01 13:31]** fix: resolve intermittent state desync during view transition
+- **[2026-08-04 21:16]** refactor: modularize internal helpers for cleaner reusability
