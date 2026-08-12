@@ -27,3 +27,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-08-07 18:38]** docs: clarify environment setups and local preview steps
 - **[2026-08-10 11:52]** fix: patch edge-case boundary in calculation logic
 - **[2026-08-11 11:23]** docs: update module documentation and usage notes
+- **[2026-08-12 16:33]** style: enhance card shadow glow on high-res displays
