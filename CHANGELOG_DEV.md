@@ -36,3 +36,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-08-27 21:48]** feat: add client-side data sanitation and boundary checks
 - **[2026-08-31 12:23]** perf: reduce redundant layout recalcs in animated cards
 - **[2026-09-02 13:29]** refactor: streamline event handler signatures and callbacks
+- **[2026-09-03 14:48]** fix: resolve mobile viewport overflow on compact devices
