@@ -44,3 +44,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-09-11 15:26]** refactor: clean up redundant class utilities across component layers
 - **[2026-09-15 16:31]** refactor: streamline event handler signatures and callbacks
 - **[2026-09-16 12:19]** style: refine typography scale and line-height balance
+- **[2026-09-21 15:43]** style: adjust button active state and hover transitions
