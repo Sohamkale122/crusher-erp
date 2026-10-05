@@ -2,6 +2,9 @@
 
 > **A production-ready Enterprise Resource Planning (ERP) platform designed for Stone Crusher Plants, Blue Metal Quarries, M-Sand Washing Units, and Heavy Fleet Logistics.**
 
+**🌐 Live Production App**: [https://crusher-erp-production.up.railway.app](https://crusher-erp-production.up.railway.app)  
+**📦 GitHub Repository**: [https://github.com/Sohamkale122/crusher-erp](https://github.com/Sohamkale122/crusher-erp)
+
 Built with **React (Vite + Tailwind CSS), Node.js (Express), MongoDB (Mongoose with auto In-Memory Dual Engine), and RESTful APIs** with strict **Role-Based Access Control (RBAC)**.
 
 ---
