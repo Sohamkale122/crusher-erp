@@ -97,10 +97,10 @@ Open **`http://localhost:5173`** in your browser.
 
 ---
 
-## ☁️ Deployment Guides
+## ☁️ Deployment Guide (Railway)
 
 ### 🚂 Deploying on Railway
-1. Install Railway CLI or link your GitHub repository on [railway.app](https://railway.app).
+1. Install Railway CLI or connect your GitHub repository on [railway.app](https://railway.app).
 2. To deploy via CLI:
    ```bash
    railway login
@@ -109,15 +109,8 @@ Open **`http://localhost:5173`** in your browser.
    ```
 3. Set environment variables on Railway dashboard:
    - `PORT`: `5000`
-   - `MONGODB_URI`: Your MongoDB connection string (or use Railway MongoDB plugin)
-   - `JWT_SECRET`: `your_random_secret_key`
-
-### ▲ Deploying on Vercel
-1. Run `vercel login` and authenticate your account.
-2. In the `crusher-erp` directory, run:
-   ```bash
-   vercel --prod
-   ```
+   - `MONGODB_URI`: Your MongoDB connection string (or add a Railway MongoDB service)
+   - `JWT_SECRET`: `crusher_erp_super_secure_jwt_secret_key_2026`
 
 ---
 
